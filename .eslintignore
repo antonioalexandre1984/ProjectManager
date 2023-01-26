@@ -1,0 +1,9 @@
+**/*.js
+node_modules/**/*
+bower_components/**/*
+dist/**/*
+/*.js
+```
+build
+```
+/src/vite-env.d.ts
